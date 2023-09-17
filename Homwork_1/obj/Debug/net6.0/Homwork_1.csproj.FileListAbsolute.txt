@@ -1,0 +1,15 @@
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.csproj.AssemblyReference.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.AssemblyInfoInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.AssemblyInfo.cs
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\bin\Debug\net6.0\Homwork_1.exe
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\bin\Debug\net6.0\Homwork_1.deps.json
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\bin\Debug\net6.0\Homwork_1.runtimeconfig.json
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\bin\Debug\net6.0\Homwork_1.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\bin\Debug\net6.0\Homwork_1.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\refint\Homwork_1.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\Homwork_1.genruntimeconfig.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Project_two\Homwork_1\obj\Debug\net6.0\ref\Homwork_1.dll
